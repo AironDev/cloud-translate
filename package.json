@@ -1,6 +1,6 @@
 {
-  "name": "cloud-translate",
-  "version": "1.0.4",
+  "name": "airondev-cloud-translate",
+  "version": "1.0.2",
   "description": "Translate text to different languages on node.js and the browser",
   "homepage": "https://github.com/airondev/cloud-translate#readme",
   "repository": "https://github.com/airondev/cloud-translate.git",
